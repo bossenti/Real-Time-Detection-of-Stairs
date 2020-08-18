@@ -1,0 +1,7 @@
+SELECT ?Image WHERE {
+{
+SELECT ?stair
+WHERE{ ?stair dct:subject dbc:Stairways}
+}
+?stair foaf:depiction ?Image
+}
