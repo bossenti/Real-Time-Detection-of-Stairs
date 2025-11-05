@@ -1030,16 +1030,6 @@ environments. The video was recorded with 5 frames per second, which is
 the better choice for live predictions. By the increasing, the number of 
 frames per second the prediction will be delayed.
 
-Due to file size restrictions in GitLab, the demo videos can be found under 
-our groups [google drive](https://drive.google.com/drive/u/2/my-drive) folder 
-with the following login credentials:
-
-```
-
-- User: serviceanalytics2020@gmail.com
-- Password: ServiceAnalytics2020
-```
-
 The following things can be observed from the test videos:
 
 - The cheap fisheye camera on the Jetson is pretty pixely but does a better job 
